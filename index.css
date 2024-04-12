@@ -1,0 +1,265 @@
+.google_letters{
+    font-size: 50px;
+    font-family:Book Antiqua;
+}
+
+.google_letters_g{
+    font-size: 50px;
+    font-family:Footlight MT light;
+}
+
+.google_letters_e{
+font-size: 55px;
+font-family:High Tower Text;
+display: flex;
+transform: rotate(360deg);
+margin-top: -80px;
+margin-left:150px;
+}
+
+.fa{
+    color:grey
+}
+.search-bar-right {
+    position: relative;
+    padding-right: 15px;
+    text-align: right;
+    height: 40px;
+}
+.search-bar-right input {
+    width: 70%;
+    height: 20px;
+    font-size: 10px;
+    text-align: left;
+    padding-right: 10px;
+}
+.search-ico-right {
+    position: absolute;
+    right: 15px;
+    top:4px;
+    color: white;
+    background-color: grey;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.microphone-ico-right {
+    position: absolute;
+    right: 60px;
+    top: 7px;
+    }
+
+.search-bar-left {
+    position: relative;
+    padding-right: 15px;
+    text-align: right;
+    height: 35px;
+}
+
+.search-bar-left input {
+    width: 70%;
+    height: 20px;
+    font-size: 10px;
+    text-align: left;
+    padding-right: 10px;
+    margin-right: 90px;
+}
+
+.search-ico-left {
+    position: absolute;
+    right: 75px;
+    top:4px;
+    color: white;
+    background-color: grey;
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.microphone-ico-left {
+    position: absolute;
+    right: 120px;
+    top:7px;
+}
+
+.src_opr{
+    object-fit: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.search_boxes_left{
+    font-size: 13px;
+    color: white;
+    height:27px;
+    padding-left:20px;
+    padding-right: 10px;
+    font-weight: lighter; 
+}
+
+.search_boxes_right{
+    font-size: 13px;
+    text-align: right;
+    color: white;
+    height:27px;
+    text-align: right;
+    padding-right:20px;
+    font-weight: lighter; 
+}
+
+.search_keyword_left{
+    width:30%;
+    font-size: 25px; 
+    color: white;
+}
+.search_keyword_right{
+    width:30%;
+    font-size: 25px;
+    color: white;
+    text-align: right;
+    padding-right: 15px;
+}
+
+.search_key_desc_left{
+    width:70%;
+    font-size: 12px;
+    color: white;
+    padding-left: 10px;
+    font-weight: lighter;
+    margin-left: -10px;
+}
+
+.search_key_desc_right{
+width:70%;
+font-size: 12px;
+color: white;
+text-align: right;
+padding-left: 10px;
+font-weight: lighter;
+}
+
+.search_txt_right{
+font-size: 11px;
+width: 65%;
+height: 1px;
+padding: 12px;
+text-align: left;
+margin-left: 30%;
+margin-bottom: 10px;
+}
+
+.search_txt_left{
+font-size: 11px;
+width: 65%;
+height: 1px;
+padding: 12px;
+text-align: left;
+margin-left: 10px;
+margin-bottom: 10px;
+}
+
+.small_icons_left{
+    position: relative;
+    padding-right: 15px;
+}
+
+.small_icons_right{
+    position: relative;
+    /* padding-right: 15px; */
+    margin-left: 30px;
+
+}
+
+.small_icons_left div {
+    width: 70%;
+    height: 20px;
+    font-size: 9px;
+    text-align: left;
+    padding-right: 20px;
+}
+.small_icons_right div {
+    width: 70%;
+    height: 20px;
+    font-size: 9px;
+    text-align: right;
+    padding-left: 10px;
+}
+
+
+.small_icons_img_left {
+    position: absolute;
+    left: 30px;
+    color: white;
+    border-radius: 100%;
+}
+.small_icons_img_right {
+    position: absolute;
+    right: 1px;
+    color: white;
+    border-radius: 100%;
+}
+
+.small_icons_text_left {
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    font-size: 10px;
+    color:grey;
+}
+.small_icons_text_right {
+    position: absolute;
+    right: 5px;
+    top: 7px;
+    font-size: 10px;
+    color:grey;
+}
+
+.box_pics{
+    width: 80px;
+    height: 80px;
+    margin-left: 15px;
+ }
+.mini_boxes{
+    color: white;
+    width: 130px;
+    padding-left:10px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.mini_search_txt{
+    width: 90%;
+    height: 13px;
+    margin-left: 5px;
+    font-size: 8px;
+}
+.mini_input_search{
+    width:130px;
+    color: white;
+    height: 30px;
+    font-size: 8px;
+    text-indent: 8px;
+}
+
+.fun_boxes{
+    color: white;
+    width: 180px;
+    padding-left:10px;
+}
+
+.funbox_pics{
+    margin-top:5px;
+    width: 95%;
+    height: 100px; 
+}
+.fun_search_txt{
+    width: 95%;
+    height: 15px;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.support_ids{
+    color: green;
+}
